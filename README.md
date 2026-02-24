@@ -1,9 +1,9 @@
-# 🎤 Turnê Mundial - Sistema de Planejamento de Shows
+# Turnê Mundial - Sistema de Planejamento de Shows
 
 Projeto desenvolvido para a disciplina de **Algoritmos e Estruturas de
 Dados II** do curso de **Bacharelado em Ciência da Computação**.
 
-## 📚 Sobre o Projeto
+## Sobre o Projeto
 
 Uma empresa de eventos precisa organizar turnês mundiais para diversos
 artistas.\
@@ -12,15 +12,15 @@ Cada artista deve viajar da cidade de origem até a cidade destino no
 
 O sistema:
 
--   📍 Modela cidades como um **grafo direcionado ponderado**
--   ✈️ Calcula o menor tempo de voo usando **Dijkstra**
--   🎵 Simula apresentações considerando duração fixa de show
--   📆 Determina em quais dias cada artista se apresentou
--   📄 Gera saída formatada conforme especificação do problema
+-    Modela cidades como um **grafo direcionado ponderado**
+-    Calcula o menor tempo de voo usando **Dijkstra**
+-    Simula apresentações considerando duração fixa de show
+-    Determina em quais dias cada artista se apresentou
+-    Gera saída formatada conforme especificação do problema
 
 ------------------------------------------------------------------------
 
-## 🧠 Conceitos Aplicados
+## Conceitos Aplicados
 
 -   Grafos direcionados
 -   Lista de adjacência
@@ -34,7 +34,7 @@ O sistema:
 
 ------------------------------------------------------------------------
 
-## 🛠 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 -   Linguagem C
 -   Compilador GCC
@@ -42,13 +42,13 @@ O sistema:
 
 ------------------------------------------------------------------------
 
-## 📂 Estrutura do Projeto
+## Estrutura do Projeto
 
 . ├── main.c ├── entrada.in ├── saida.out └── README.md
 
 ------------------------------------------------------------------------
 
-## ▶️ Como Compilar
+## Como Compilar
 
 ``` bash
 gcc main.c -o turne
@@ -56,7 +56,7 @@ gcc main.c -o turne
 
 ------------------------------------------------------------------------
 
-## ▶️ Como Executar
+## Como Executar
 
 ``` bash
 ./turne < entrada.in
@@ -64,7 +64,7 @@ gcc main.c -o turne
 
 ------------------------------------------------------------------------
 
-## 🎯 Objetivos Acadêmicos
+## Objetivos Acadêmicos
 
 Este projeto reforça conceitos fundamentais de:
 
@@ -75,7 +75,7 @@ Este projeto reforça conceitos fundamentais de:
 
 ------------------------------------------------------------------------
 
-## 👨‍💻 Autor
+## Autor
 
 Willian Torres\
 Bacharelado em Ciência da Computação\
